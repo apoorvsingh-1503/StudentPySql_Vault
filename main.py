@@ -1,5 +1,5 @@
-import Student
-import Admin
+from Admin import Admin
+from Student import Student
 
 def main():
         while True:
